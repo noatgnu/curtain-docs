@@ -16,7 +16,7 @@ Log2 Fold Change column)and `Select Significant` column is the `Significance(-Lo
 If your fold change data and/or significannce data are not appropriately log transformed, you can tick the appropriate check box underneath each parameter to have curtain perform log transformation.
 
 If your data is in long form format where there is a column which indicates the label of the different comparisons, you can assign `Comparison` parameter as that column.
-After that, you can select the label of the comparison of interests from the `Select Comparison` parameter. By default, if these two parameters are not assigned, Curtain will automatically give `Comparison` parameter `CurtainComparison` column name and `Select Comparison` parameter the value `1`.
+After that, you can select the label of the comparison of interests from the `Select Comparison` parameter. By default, if these two parameters are not assigned, Curtain will automatically give `Comparison` parameter `CurtainSetComparison` column name and `Select Comparison` parameter the value `1`.
 
 
 
