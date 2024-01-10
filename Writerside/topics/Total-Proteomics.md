@@ -1,4 +1,4 @@
 # Total Proteomics
 
-Result analysis
+For total proteomics,
 
