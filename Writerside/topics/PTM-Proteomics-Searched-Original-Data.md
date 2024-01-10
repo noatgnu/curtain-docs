@@ -1,3 +1,3 @@
 # PTM Proteomics - Searched (Original) Data
 
-Start typing here...
+![ptem_proteomics.searched_data.png](ptem_proteomics.searched_data.png)
