@@ -16,4 +16,18 @@ Those viewing the session can make modifications to the session and when save wi
 
 ## Features
 
-- 
+- Storage of differential analysis results and the data that was used for the differential analysis
+- Highly customizable plots and color schemes
+- Interactive volcano plot visualization of differential analysis results
+- Correlation matrix
+- Profile plot
+- Data selection using built-in or provided list of protein of interests
+- Selected data from volcano plot is linked with the original data and visualized in form of bar charts and violin plots
+- Direct fetching of UniProt data for annotation of upload data with UniProt Accession IDs
+- Embedded StringDB interaction plot
+- Embedded InteractomeAtlas interaction plot
+- ProteomicsDB expression data of the protein of interests
+- AlphaFold predicted protein structure viewer
+- Shareable unique link session
+- Selected aggregated PTM data from the knowledgebase for proteins of interests
+- Kinase Library for prediction of potential kinase
