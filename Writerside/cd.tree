@@ -13,4 +13,6 @@
         <toc-element topic="PTM-Proteomics-Differential-Analysis.md"/>
         <toc-element topic="PTM-Proteomics-Searched-Original-Data.md"/>
     </toc-element>
+    <toc-element topic="Protein-Search-and-Selection.md"/>
+    <toc-element topic="Volcano-Plot.md"/>
 </instance-profile>
