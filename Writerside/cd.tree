@@ -9,5 +9,6 @@
     <toc-element topic="Curtain-Introduction.md"/>
     <toc-element topic="Input-Files.md">
         <toc-element topic="Total-Proteomics.md"/>
+        <toc-element topic="Total-Proteomics-Searched-Original-Data.md"/>
     </toc-element>
 </instance-profile>
