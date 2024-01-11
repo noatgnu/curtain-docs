@@ -64,3 +64,9 @@ For PTM proteomics data, you will also need to browse down to the PTM data. Here
 
 ![ptm_proteomics.annotate_on_volcano_plot.png](ptm_proteomics.annotate_on_volcano_plot.png)
 
+From `Volcano Plot Actions` -> `Annotation Text Editor`, you can edit text in term of color, font size, position offset from the data point, arrow size, and the text itself.
+
+![annotation_interface.png](annotation_interface.png)
+
+
+

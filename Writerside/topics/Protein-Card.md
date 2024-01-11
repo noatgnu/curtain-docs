@@ -11,6 +11,18 @@ The protein card for total proteomics will allow you to add or remove the select
 Within this card section, you can also view the bar charts and violin plots of the protein across all samples in the `Raw Data Distribution` tab and aggregated protein data from UniProt in `Protein Information` tab. This would includes functional description, functional domains, involvement in diseases, mutagenesis, and pharmacological usage.
 Further expression data from the knowledgebase can be viewed in the `ProteomicsDB` tab. Potential interaction data can be found in the `StringDB` and `Interactome Atlas` tab.
 
+![proteomicsdb.png](proteomicsdb.png)
+
+Example of `ProteomicsDB` tab. Here you can find the expression data from `ProteomicsDB` for the selected protein. You can select to see the data for different `Tissue` or `Cell line` and change the color of the bar chart.
+
+![stringdb.png](stringdb.png)
+
+Example of `StringDB` tab. This is an embedded interaction network from `StringDB` of the selected protein and its most immediate interactors according to the score cutoff. Here, we also combine the information from differential analysis data to show which potential interactors are significantly changed.
+
+![interactome_atlas.png](interactome_atlas.png)
+
+Example of `Interactome Atlas` tab. Similar to `StringDB`, this is an interaction network but from `Interactome Atlas`. Here, we also combine the information from differential analysis data to show which potential interactors are significantly changed.
+
 ## PTM Proteomics
 
 ![ptm_proteomics.protein_card.png](ptm_proteomics.protein_card.png)
