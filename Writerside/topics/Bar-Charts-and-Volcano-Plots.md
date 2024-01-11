@@ -23,3 +23,9 @@ To change the name of any condition, you can go to `Session` -> `Sample & Condit
 
 ![sample_condition_assignment.png](sample_condition_assignment.png)
 
+To export a particular bar charts or violin plots, you can click on the Camera icon that would appear when you hover over the plot or click `Download` -> `Download Bar Chart` or `Download Average Bar Chart` or `Download Violin Plot` or `Download All Plots`.
+
+To export the associated data, you would need to click on the `Download` -> `Download Data` button.
+
+![download_menu_bar_violin.png](download_menu_bar_violin.png)
+
