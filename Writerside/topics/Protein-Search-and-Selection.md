@@ -52,3 +52,5 @@ PTM Proteomics:
 By checking the Remove from selection boxes and then save, you can remove the PTMs or proteins from the selection.
 
 Any changes made to the selection group will need the volcano plot to be redrawn to reflect the changes in the visualization.
+
+If you wish to remove all selection settings, you can click `Session` -> `Clear Selections` or `Volcano Plot Actions` -> `Clear Selections` to clear all selection groups and redraw the volcano plot in default settings.
