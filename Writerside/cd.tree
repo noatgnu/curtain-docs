@@ -15,5 +15,6 @@
     </toc-element>
     <toc-element topic="Protein-Search-and-Selection.md"/>
     <toc-element topic="Volcano-Plot.md"/>
+    <toc-element topic="Protein-Card.md"/>
     <toc-element topic="Bar-Charts-and-Volcano-Plots.md"/>
 </instance-profile>
