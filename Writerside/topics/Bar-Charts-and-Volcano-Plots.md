@@ -1,4 +1,4 @@
-# Bar Charts and Volcano Plots
+# Bar Charts and Violin Plots
 
 With each selected protein or PTM, Curtain will generate bar charts and violin plots for the sample data associated with the protein or PTM site.
 
