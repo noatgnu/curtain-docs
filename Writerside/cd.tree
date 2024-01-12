@@ -18,4 +18,7 @@
     <toc-element topic="Protein-Card.md"/>
     <toc-element topic="Bar-Charts-and-Volcano-Plots.md"/>
     <toc-element topic="Saving-Session.md"/>
+    <toc-element topic="Profile-Plot.md"/>
+    <toc-element topic="Correlation-Matrix-Total-Proteomics.md"/>
+    <toc-element topic="Color-Palette-Customization.md"/>
 </instance-profile>
