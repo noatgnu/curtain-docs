@@ -22,4 +22,5 @@
     <toc-element topic="Correlation-Matrix-Total-Proteomics.md"/>
     <toc-element topic="Color-Palette-Customization.md"/>
     <toc-element topic="Converting-to-Input-Files-for-CurtainPTM.md"/>
+    <toc-element topic="Running-Your-Own-Curtain-Server.md"/>
 </instance-profile>
